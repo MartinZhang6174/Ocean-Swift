@@ -1,0 +1,273 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Ocean_SwiftTests_03"
+provides-nominal:
+- "C16Ocean_SwiftTests19Ocean_SwiftTests_03"
+provides-member:
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", ""]
+provides-dynamic-lookup:
+- "testGiantSalmonHasCorrectValue"
+- "testAllGiantSalmonAreFish"
+- "testGiantTunaHasCorrectWeight"
+- "setUp"
+- "testGiantSalmonHasCorrectWeight"
+- "tearDown"
+- "testAllGiantTunaAreFish"
+- "testGiantTunaHasCorrectValue"
+depends-top-level:
+- "GiantTuna"
+- "Ocean_SwiftTests_03"
+- "GiantSalmon"
+- !private "XCTAssertEqual"
+- "XCTestCase"
+- !private "XCTAssertNotNil"
+- !private "Fish"
+- !private "StringLiteralType"
+depends-member:
+- ["Ps9AnyObject", "GiantSalmon"]
+- ["Ps9AnyObject", "GiantTuna"]
+- !private ["Ps9AnyObject", "XCTAssertEqual"]
+- !private ["Ps9AnyObject", "XCTAssertNotNil"]
+- ["Ps9AnyObject", "giantSalmon"]
+- ["Ps9AnyObject", "giantTuna"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "setUp"]
+- ["Ps9AnyObject", "tearDown"]
+- ["Ps9AnyObject", "testAllGiantSalmonAreFish"]
+- ["Ps9AnyObject", "testAllGiantTunaAreFish"]
+- ["Ps9AnyObject", "testGiantSalmonHasCorrectValue"]
+- ["Ps9AnyObject", "testGiantSalmonHasCorrectWeight"]
+- ["Ps9AnyObject", "testGiantTunaHasCorrectValue"]
+- ["Ps9AnyObject", "testGiantTunaHasCorrectWeight"]
+- !private ["Ps9AnyObject", "value"]
+- !private ["Ps9AnyObject", "weight"]
+- ["Ps9AnyObject", ""]
+- ["Ps11CVarArgType", "GiantSalmon"]
+- ["Ps11CVarArgType", "GiantTuna"]
+- !private ["Ps11CVarArgType", "XCTAssertEqual"]
+- !private ["Ps11CVarArgType", "XCTAssertNotNil"]
+- ["Ps11CVarArgType", "giantSalmon"]
+- ["Ps11CVarArgType", "giantTuna"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "setUp"]
+- ["Ps11CVarArgType", "tearDown"]
+- ["Ps11CVarArgType", "testAllGiantSalmonAreFish"]
+- ["Ps11CVarArgType", "testAllGiantTunaAreFish"]
+- ["Ps11CVarArgType", "testGiantSalmonHasCorrectValue"]
+- ["Ps11CVarArgType", "testGiantSalmonHasCorrectWeight"]
+- ["Ps11CVarArgType", "testGiantTunaHasCorrectValue"]
+- ["Ps11CVarArgType", "testGiantTunaHasCorrectWeight"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "GiantSalmon"]
+- ["Ps28CustomDebugStringConvertible", "GiantTuna"]
+- !private ["Ps28CustomDebugStringConvertible", "XCTAssertEqual"]
+- !private ["Ps28CustomDebugStringConvertible", "XCTAssertNotNil"]
+- ["Ps28CustomDebugStringConvertible", "giantSalmon"]
+- ["Ps28CustomDebugStringConvertible", "giantTuna"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "setUp"]
+- ["Ps28CustomDebugStringConvertible", "tearDown"]
+- ["Ps28CustomDebugStringConvertible", "testAllGiantSalmonAreFish"]
+- ["Ps28CustomDebugStringConvertible", "testAllGiantTunaAreFish"]
+- ["Ps28CustomDebugStringConvertible", "testGiantSalmonHasCorrectValue"]
+- ["Ps28CustomDebugStringConvertible", "testGiantSalmonHasCorrectWeight"]
+- ["Ps28CustomDebugStringConvertible", "testGiantTunaHasCorrectValue"]
+- ["Ps28CustomDebugStringConvertible", "testGiantTunaHasCorrectWeight"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "GiantSalmon"]
+- ["Ps23CustomStringConvertible", "GiantTuna"]
+- !private ["Ps23CustomStringConvertible", "XCTAssertEqual"]
+- !private ["Ps23CustomStringConvertible", "XCTAssertNotNil"]
+- ["Ps23CustomStringConvertible", "giantSalmon"]
+- ["Ps23CustomStringConvertible", "giantTuna"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "setUp"]
+- ["Ps23CustomStringConvertible", "tearDown"]
+- ["Ps23CustomStringConvertible", "testAllGiantSalmonAreFish"]
+- ["Ps23CustomStringConvertible", "testAllGiantTunaAreFish"]
+- ["Ps23CustomStringConvertible", "testGiantSalmonHasCorrectValue"]
+- ["Ps23CustomStringConvertible", "testGiantSalmonHasCorrectWeight"]
+- ["Ps23CustomStringConvertible", "testGiantTunaHasCorrectValue"]
+- ["Ps23CustomStringConvertible", "testGiantTunaHasCorrectWeight"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "GiantSalmon"]
+- ["Ps9Equatable", "GiantTuna"]
+- !private ["Ps9Equatable", "XCTAssertEqual"]
+- !private ["Ps9Equatable", "XCTAssertNotNil"]
+- ["Ps9Equatable", "giantSalmon"]
+- ["Ps9Equatable", "giantTuna"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "setUp"]
+- ["Ps9Equatable", "tearDown"]
+- ["Ps9Equatable", "testAllGiantSalmonAreFish"]
+- ["Ps9Equatable", "testAllGiantTunaAreFish"]
+- ["Ps9Equatable", "testGiantSalmonHasCorrectValue"]
+- ["Ps9Equatable", "testGiantSalmonHasCorrectWeight"]
+- ["Ps9Equatable", "testGiantTunaHasCorrectValue"]
+- ["Ps9Equatable", "testGiantTunaHasCorrectWeight"]
+- ["Ps9Equatable", ""]
+- !private ["C16Ocean_SwiftTests4Fish", "value"]
+- !private ["C16Ocean_SwiftTests4Fish", "weight"]
+- !private ["C16Ocean_SwiftTests11GiantSalmon", "deinit"]
+- ["C16Ocean_SwiftTests11GiantSalmon", "init"]
+- !private ["C16Ocean_SwiftTests11GiantSalmon", "value"]
+- !private ["C16Ocean_SwiftTests11GiantSalmon", "weight"]
+- !private ["C16Ocean_SwiftTests9GiantTuna", "deinit"]
+- ["C16Ocean_SwiftTests9GiantTuna", "init"]
+- !private ["C16Ocean_SwiftTests9GiantTuna", "value"]
+- !private ["C16Ocean_SwiftTests9GiantTuna", "weight"]
+- ["Ps8Hashable", "GiantSalmon"]
+- ["Ps8Hashable", "GiantTuna"]
+- !private ["Ps8Hashable", "XCTAssertEqual"]
+- !private ["Ps8Hashable", "XCTAssertNotNil"]
+- ["Ps8Hashable", "giantSalmon"]
+- ["Ps8Hashable", "giantTuna"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "setUp"]
+- ["Ps8Hashable", "tearDown"]
+- ["Ps8Hashable", "testAllGiantSalmonAreFish"]
+- ["Ps8Hashable", "testAllGiantTunaAreFish"]
+- ["Ps8Hashable", "testGiantSalmonHasCorrectValue"]
+- ["Ps8Hashable", "testGiantSalmonHasCorrectWeight"]
+- ["Ps8Hashable", "testGiantTunaHasCorrectValue"]
+- ["Ps8Hashable", "testGiantTunaHasCorrectWeight"]
+- ["Ps8Hashable", ""]
+- !private ["CSo8NSObject", "Fish"]
+- ["CSo8NSObject", "GiantSalmon"]
+- ["CSo8NSObject", "GiantTuna"]
+- !private ["CSo8NSObject", "XCTAssertEqual"]
+- !private ["CSo8NSObject", "XCTAssertNotNil"]
+- ["CSo8NSObject", "giantSalmon"]
+- ["CSo8NSObject", "giantTuna"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "setUp"]
+- ["CSo8NSObject", "tearDown"]
+- ["CSo8NSObject", "testAllGiantSalmonAreFish"]
+- ["CSo8NSObject", "testAllGiantTunaAreFish"]
+- ["CSo8NSObject", "testGiantSalmonHasCorrectValue"]
+- ["CSo8NSObject", "testGiantSalmonHasCorrectWeight"]
+- ["CSo8NSObject", "testGiantTunaHasCorrectValue"]
+- ["CSo8NSObject", "testGiantTunaHasCorrectWeight"]
+- ["PSo16NSObjectProtocol", "GiantSalmon"]
+- ["PSo16NSObjectProtocol", "GiantTuna"]
+- !private ["PSo16NSObjectProtocol", "XCTAssertEqual"]
+- !private ["PSo16NSObjectProtocol", "XCTAssertNotNil"]
+- ["PSo16NSObjectProtocol", "giantSalmon"]
+- ["PSo16NSObjectProtocol", "giantTuna"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "setUp"]
+- ["PSo16NSObjectProtocol", "tearDown"]
+- ["PSo16NSObjectProtocol", "testAllGiantSalmonAreFish"]
+- ["PSo16NSObjectProtocol", "testAllGiantTunaAreFish"]
+- ["PSo16NSObjectProtocol", "testGiantSalmonHasCorrectValue"]
+- ["PSo16NSObjectProtocol", "testGiantSalmonHasCorrectWeight"]
+- ["PSo16NSObjectProtocol", "testGiantTunaHasCorrectValue"]
+- ["PSo16NSObjectProtocol", "testGiantTunaHasCorrectWeight"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "Fish"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "GiantSalmon"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "GiantTuna"]
+- !private ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "XCTAssertEqual"]
+- !private ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "XCTAssertNotNil"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "deinit"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "giantSalmon"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "giantTuna"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "init"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "setUp"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "tearDown"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "testAllGiantSalmonAreFish"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "testAllGiantTunaAreFish"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "testGiantSalmonHasCorrectValue"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "testGiantSalmonHasCorrectWeight"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "testGiantTunaHasCorrectValue"]
+- ["C16Ocean_SwiftTests19Ocean_SwiftTests_03", "testGiantTunaHasCorrectWeight"]
+- !private ["Vs12StaticString", "deinit"]
+- !private ["CSo6XCTest", "Fish"]
+- ["CSo6XCTest", "GiantSalmon"]
+- ["CSo6XCTest", "GiantTuna"]
+- !private ["CSo6XCTest", "XCTAssertEqual"]
+- !private ["CSo6XCTest", "XCTAssertNotNil"]
+- ["CSo6XCTest", "giantSalmon"]
+- ["CSo6XCTest", "giantTuna"]
+- ["CSo6XCTest", "init"]
+- ["CSo6XCTest", "setUp"]
+- ["CSo6XCTest", "tearDown"]
+- ["CSo6XCTest", "testAllGiantSalmonAreFish"]
+- ["CSo6XCTest", "testAllGiantTunaAreFish"]
+- ["CSo6XCTest", "testGiantSalmonHasCorrectValue"]
+- ["CSo6XCTest", "testGiantSalmonHasCorrectWeight"]
+- ["CSo6XCTest", "testGiantTunaHasCorrectValue"]
+- ["CSo6XCTest", "testGiantTunaHasCorrectWeight"]
+- !private ["CSo10XCTestCase", "Fish"]
+- ["CSo10XCTestCase", "GiantSalmon"]
+- ["CSo10XCTestCase", "GiantTuna"]
+- !private ["CSo10XCTestCase", "XCTAssertEqual"]
+- !private ["CSo10XCTestCase", "XCTAssertNotNil"]
+- ["CSo10XCTestCase", "giantSalmon"]
+- ["CSo10XCTestCase", "giantTuna"]
+- ["CSo10XCTestCase", "init"]
+- ["CSo10XCTestCase", "setUp"]
+- ["CSo10XCTestCase", "tearDown"]
+- ["CSo10XCTestCase", "testAllGiantSalmonAreFish"]
+- ["CSo10XCTestCase", "testAllGiantTunaAreFish"]
+- ["CSo10XCTestCase", "testGiantSalmonHasCorrectValue"]
+- ["CSo10XCTestCase", "testGiantSalmonHasCorrectWeight"]
+- ["CSo10XCTestCase", "testGiantTunaHasCorrectValue"]
+- ["CSo10XCTestCase", "testGiantTunaHasCorrectWeight"]
+- ["CSo10XCTestCase", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "C16Ocean_SwiftTests4Fish"
+- "C16Ocean_SwiftTests11GiantSalmon"
+- "C16Ocean_SwiftTests9GiantTuna"
+- "Ps8Hashable"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C16Ocean_SwiftTests19Ocean_SwiftTests_03"
+- !private "Vs12StaticString"
+- "CSo6XCTest"
+- "CSo10XCTestCase"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/XCTest.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementQuery.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUICoordinate.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIDevice.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypeQueryProvider.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementTypes.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElementAttributes.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIElement.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIApplication.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuiteRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestSuite.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestProbe.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObservation.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObservationCenter.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestObserver.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestLog.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCaseRun.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase+AsynchronousTesting.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestCase.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestAssertionsImpl.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestAssertions.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCAbstractTest.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "de11c6b718474a50d6adfa742d64837e"

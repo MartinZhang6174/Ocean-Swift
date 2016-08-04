@@ -1,0 +1,13 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "3693562f13e9e2a26920b391a0b0fe95"
+build_time: [523576251, 783820000]
+inputs:
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/Captain.swift": [523576251, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/Fish.swift": [523571228, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/Submarine.swift": [523573990, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/ViewController.swift": [513373528, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/Ocean.swift": [523571765, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/Giant Tuna.swift": [523571263, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-SwiftTests/Captain Delegate.swift": [523573756, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/Giant Salmon.swift": [523571266, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/AppDelegate.swift": [513373528, 0]

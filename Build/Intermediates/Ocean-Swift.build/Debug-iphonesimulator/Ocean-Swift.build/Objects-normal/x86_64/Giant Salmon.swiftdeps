@@ -1,0 +1,38 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GiantSalmon"
+provides-nominal:
+- "C11Ocean_Swift11GiantSalmon"
+provides-member:
+- ["C11Ocean_Swift11GiantSalmon", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "FloatLiteralType"
+- "Fish"
+- "GiantSalmon"
+- !private "StringLiteralType"
+- !private "IntegerLiteralType"
+depends-member:
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", ""]
+- ["C11Ocean_Swift4Fish", "init"]
+- ["C11Ocean_Swift4Fish", ""]
+- ["C11Ocean_Swift11GiantSalmon", "deinit"]
+- ["C11Ocean_Swift11GiantSalmon", "init"]
+- !private ["Vs12StaticString", "deinit"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C11Ocean_Swift4Fish"
+- "C11Ocean_Swift11GiantSalmon"
+- !private "Vs12StaticString"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "dccd41a80527c08241100ed6d1c9d1c2"

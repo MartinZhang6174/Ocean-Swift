@@ -1,0 +1,85 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Submarine"
+provides-nominal:
+- "C11Ocean_Swift9Submarine"
+provides-member:
+- ["C11Ocean_Swift9Submarine", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Fish"
+- !private "=="
+- !private "!="
+- "IntegerLiteralType"
+- "Submarine"
+- "Captain"
+- !private ">"
+- !private "+="
+- !private "-="
+- !private "<"
+- !private "&&"
+- "Int"
+- "FloatLiteralType"
+- "Ocean"
+depends-member:
+- !private ["Ps9AnyObject", "Ocean"]
+- !private ["Ps9AnyObject", "captainDelegate"]
+- !private ["Ps9AnyObject", "depth"]
+- !private ["Ps9AnyObject", "goFish"]
+- !private ["Ps9AnyObject", "tile"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- !private ["C11Ocean_Swift7Captain", "deinit"]
+- !private ["C11Ocean_Swift7Captain", "goFish"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["V11Ocean_Swift5Ocean", "kMAX_DEPTH"]
+- ["C11Ocean_Swift9Submarine", "Captain"]
+- ["C11Ocean_Swift9Submarine", "Fish"]
+- ["C11Ocean_Swift9Submarine", "Int"]
+- ["C11Ocean_Swift9Submarine", "Ocean"]
+- ["C11Ocean_Swift9Submarine", "ascend"]
+- ["C11Ocean_Swift9Submarine", "backwards"]
+- ["C11Ocean_Swift9Submarine", "captainDelegate"]
+- ["C11Ocean_Swift9Submarine", "deinit"]
+- ["C11Ocean_Swift9Submarine", "depth"]
+- ["C11Ocean_Swift9Submarine", "descend"]
+- ["C11Ocean_Swift9Submarine", "dive"]
+- ["C11Ocean_Swift9Submarine", "forward"]
+- ["C11Ocean_Swift9Submarine", "goFish"]
+- ["C11Ocean_Swift9Submarine", "init"]
+- ["C11Ocean_Swift9Submarine", "surface"]
+- ["C11Ocean_Swift9Submarine", "tile"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["P11Ocean_Swift15captainDelegate", "goFish"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- !private "C11Ocean_Swift7Captain"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps8Hashable"
+- !private "V11Ocean_Swift5Ocean"
+- "C11Ocean_Swift9Submarine"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps12_Reflectable"
+- !private "P11Ocean_Swift15captainDelegate"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "311acdb63a2fedaf9fe717e527b56198"

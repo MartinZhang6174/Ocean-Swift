@@ -1,0 +1,17 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "9c18bc2a4de2726722fcd06fdbe2d437"
+build_time: [523576252, 631645000]
+inputs:
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/Ocean.swift": [523571765, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/Giant Salmon.swift": [523571266, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/Submarine.swift": [523573990, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-SwiftTests/Ocean_SwiftTests_06.swift": [513373528, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-SwiftTests/Ocean_SwiftTests_04.swift": [523507643, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-SwiftTests/Ocean_SwiftTests_03.swift": [523507538, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-SwiftTests/Captain Delegate.swift": [523573756, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/Fish.swift": [523571228, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/Captain.swift": [523576251, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-SwiftTests/Ocean_SwiftTests_02.swift": [523506917, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-SwiftTests/Ocean_SwiftTests_05.swift": [523573420, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-Swift/Giant Tuna.swift": [523571263, 0]
+  "/Users/martinzhang/Desktop/Lighthouse/Assignments /W1 Assignments/ios-oceans-swift-student-master/Part 1-Ocean/Ocean-SwiftTests/Ocean_SwiftTests.swift": [523506100, 0]
